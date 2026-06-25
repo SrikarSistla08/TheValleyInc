@@ -1,10 +1,10 @@
 const products = [
   {
     name: "CoRoute",
-    tag: "Active build",
+    tag: "Live",
     description:
-      "Interstate carpooling for mid-distance corridors across the US South. Starting in Atlanta.",
-    href: "https://coroute.vercel.app",
+      "City-to-city ride sharing with verified riders, fair pricing, and smart routes across the US South.",
+    href: "https://co-route-five.vercel.app",
     iconBg: "bg-[rgba(29,158,117,0.15)]",
     iconColor: "text-[#5DCAA5]",
     glowColor: "rgba(93,202,165,0.15)",
