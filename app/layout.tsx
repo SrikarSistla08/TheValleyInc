@@ -13,6 +13,9 @@ export const metadata: Metadata = {
   title: "The Valley Inc.",
   description:
     "A portfolio of startups built for students, local businesses, and underserved communities.",
+  icons: {
+    icon: "/mlogo.png",
+  },
   openGraph: {
     title: "The Valley Inc.",
     description: "Products built for real people, real problems.",
