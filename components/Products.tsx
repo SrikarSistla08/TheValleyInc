@@ -5,9 +5,9 @@ const products = [
     description:
       "City-to-city ride sharing with verified riders, fair pricing, and smart routes across the US South.",
     href: "https://co-route-five.vercel.app",
-    iconBg: "bg-[rgba(29,158,117,0.15)]",
-    iconColor: "text-[#5DCAA5]",
-    glowColor: "rgba(93,202,165,0.15)",
+    iconBg: "bg-[rgba(51,102,255,0.15)]",
+    iconColor: "text-[#3366ff]",
+    glowColor: "rgba(51,102,255,0.15)",
     icon: (
       <svg
         xmlns="http://www.w3.org/2000/svg"
@@ -16,13 +16,14 @@ const products = [
         viewBox="0 0 24 24"
         fill="none"
         stroke="currentColor"
-        strokeWidth="1.5"
+        strokeWidth="2"
         strokeLinecap="round"
         strokeLinejoin="round"
       >
-        <path d="M3 17l4-8 4 4 4-6 4 6" />
-        <circle cx="3" cy="17" r="1" />
-        <circle cx="21" cy="13" r="1" />
+        <rect x="2" y="2" width="20" height="20" rx="5" fill="currentColor" opacity="0.15" />
+        <path d="M8 16 L8 10 C8 7 10 6 12 6 C14 6 16 7 16 10 L16 14 C16 15 15 16 14 16 L12 16" />
+        <circle cx="12" cy="16" r="1.5" />
+        <circle cx="8" cy="16" r="1.5" />
       </svg>
     ),
   },
