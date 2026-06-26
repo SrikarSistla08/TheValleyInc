@@ -1,5 +1,7 @@
-# The Valley Inc.
-
+<h1 align="left">
+  <img src="public/mlogo.png" alt="The Valley Inc." height="40" style="vertical-align: middle; margin-right: 20px;">
+  The Valley Inc.
+</h1>
 > A portfolio of startups built for students, local businesses, and underserved communities.
 
 **[the-valley-inc.vercel.app](https://the-valley-inc.vercel.app)** · Built nad fouded by [Srikar Sistla](https://www.linkedin.com/in/srikarsistla/)
